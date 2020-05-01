@@ -19,38 +19,21 @@ include two kinds of files, `df_with_loc` just include pre-processed comments da
 ----
 
 Description:
-  - Make:
-      
+  - Make: 
       make name of the car
-    
   - Model:
-  
-   model name of the make
-   
+      model name of the make
   - Year:
-  
-   year of the model
-   
+      year of the model
   - Comments:
-  
-   pre-processed comments
-   
+      pre-processed comments
   - Label:
-  
-   the catrgory of the complain
-   
+      the catrgory of the complain
   - Date:
-   
-   comment date
-   
+      comment date
   - Ori-Comments:
-   
-   comments before pre-processed
-   
+      comments before pre-processed
   - Country:
-  
-   whitch country is the author from
-   
+      whitch country is the author from
   - State:
-  
-   whitch state is the author from
+      whitch state is the author from

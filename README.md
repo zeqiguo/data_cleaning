@@ -20,8 +20,7 @@ include two kinds of files, `df_with_loc` just include pre-processed comments da
 
 Description:
   - Make:
-  
-    make name of the car
+      make name of the car
     
   - Model:
   
